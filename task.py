@@ -22,3 +22,4 @@ while current_age <= 60:
 
     print('Нам сейчас: ', current_age, 'У нас сейчас: ', total_money)
     current_age += 1
+    

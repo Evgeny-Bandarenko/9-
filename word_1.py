@@ -1,5 +1,4 @@
 # 2.1
-#
 # line = "rythm rough rush shake than"
 # print(line.replace('a', ' '), line.count("a"))
 
